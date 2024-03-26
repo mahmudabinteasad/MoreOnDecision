@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.13">
-      <change afterPath="$PROJECT_DIR$/src/getLetterGrade.java" afterDir="false" />
+    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.14">
+      <change afterPath="$PROJECT_DIR$/src/IncomeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getLetterGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/getLetterGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="E5.14" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,11 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IncomeTax.executor": "Run",
     "Application.getLetterGrade.executor": "Run",
     "Application.getNumericGrade.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5.14",
+    "git-widget-placeholder": "E5.15",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -66,11 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711472831012</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="E5.14">
+      <option name="closed" value="true" />
+      <created>1711473642150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711473642150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="E5.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="E5.13" />
+    <MESSAGE value="E5.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.14" />
   </component>
 </project>
