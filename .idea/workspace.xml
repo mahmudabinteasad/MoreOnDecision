@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.17">
-      <change afterPath="$PROJECT_DIR$/src/LexicographicallySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.18">
+      <change afterPath="$PROJECT_DIR$/src/CompareDecimalPlaces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5.17" />
+        <entry key="$PROJECT_DIR$" value="E5.18" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,20 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CardGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncomeTax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getLetterGrade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getNumericGrade.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;E5.18&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CardGame.executor": "Run",
+    "Application.FindLargest.executor": "Run",
+    "Application.IncomeTax.executor": "Run",
+    "Application.LexicographicallySort.executor": "Run",
+    "Application.getLetterGrade.executor": "Run",
+    "Application.getNumericGrade.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "E5.19",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.LexicographicallySort">
+}]]></component>
+  <component name="RunManager" selected="Application.CompareDecimalPlaces">
+    <configuration name="CompareDecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareDecimalPlaces" />
+      <module name="MoreOnDecision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindLargest" />
       <module name="MoreOnDecision" />
@@ -70,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareDecimalPlaces" />
         <item itemvalue="Application.LexicographicallySort" />
         <item itemvalue="Application.FindLargest" />
       </list>
@@ -116,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711476640312</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="E5.18">
+      <option name="closed" value="true" />
+      <created>1711635541773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711635541773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,21 +140,7 @@
     <MESSAGE value="E5.14" />
     <MESSAGE value="E5.15" />
     <MESSAGE value="E5.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="E5.17" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/FindLargest.java</url>
-          <line>2</line>
-          <properties class="FindLargest" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="E5.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.18" />
   </component>
 </project>
