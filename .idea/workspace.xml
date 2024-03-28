@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.21">
-      <change afterPath="$PROJECT_DIR$/src/WaterState.java" afterDir="false" />
+    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.24">
+      <change afterPath="$PROJECT_DIR$/src/CouponAward.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5.21" />
+        <entry key="$PROJECT_DIR$" value="E5.24" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,20 +44,22 @@
   "keyToString": {
     "Application.CardGame.executor": "Run",
     "Application.CompareDecimalPlaces.executor": "Run",
+    "Application.CouponAward.executor": "Run",
     "Application.FindLargest.executor": "Run",
     "Application.IncomeTax.executor": "Run",
     "Application.LexicographicallySort.executor": "Run",
     "Application.MonthDate.executor": "Run",
     "Application.VowelOrConsonant.executor": "Run",
+    "Application.WaterState.executor": "Run",
     "Application.getLetterGrade.executor": "Run",
     "Application.getNumericGrade.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5.24",
+    "git-widget-placeholder": "E5.23",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WaterState">
+  <component name="RunManager" selected="Application.CouponAward">
     <configuration name="CompareDecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompareDecimalPlaces" />
       <module name="MoreOnDecision" />
@@ -64,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LexicographicallySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LexicographicallySort" />
+    <configuration name="CouponAward" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CouponAward" />
       <module name="MoreOnDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CouponAward" />
         <item itemvalue="Application.WaterState" />
         <item itemvalue="Application.MonthDate" />
         <item itemvalue="Application.VowelOrConsonant" />
         <item itemvalue="Application.CompareDecimalPlaces" />
-        <item itemvalue="Application.LexicographicallySort" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711649948557</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="E5.24">
+      <option name="closed" value="true" />
+      <created>1711650283621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711650283621</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +198,7 @@
     <MESSAGE value="E5.19" />
     <MESSAGE value="E5.20" />
     <MESSAGE value="E5.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="E5.21" />
+    <MESSAGE value="E5.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.24" />
   </component>
 </project>
