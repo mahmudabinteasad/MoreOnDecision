@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.20">
-      <change afterPath="$PROJECT_DIR$/src/MonthDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f8a8d57-e82f-4d21-9905-7da537b3fd94" name="Changes" comment="E5.21">
+      <change afterPath="$PROJECT_DIR$/src/WaterState.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5.20" />
+        <entry key="$PROJECT_DIR$" value="E5.21" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,25 +46,19 @@
     "Application.FindLargest.executor": "Run",
     "Application.IncomeTax.executor": "Run",
     "Application.LexicographicallySort.executor": "Run",
+    "Application.MonthDate.executor": "Run",
     "Application.VowelOrConsonant.executor": "Run",
     "Application.getLetterGrade.executor": "Run",
     "Application.getNumericGrade.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5.21",
+    "git-widget-placeholder": "E5.24",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonthDate">
+  <component name="RunManager" selected="Application.WaterState">
     <configuration name="CompareDecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompareDecimalPlaces" />
-      <module name="MoreOnDecision" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLargest" />
       <module name="MoreOnDecision" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WaterState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaterState" />
+      <module name="MoreOnDecision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaterState" />
         <item itemvalue="Application.MonthDate" />
         <item itemvalue="Application.VowelOrConsonant" />
         <item itemvalue="Application.CompareDecimalPlaces" />
         <item itemvalue="Application.LexicographicallySort" />
-        <item itemvalue="Application.FindLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711636246006</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="E5.21">
+      <option name="closed" value="true" />
+      <created>1711649948557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711649948557</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +186,7 @@
     <MESSAGE value="E5.18" />
     <MESSAGE value="E5.19" />
     <MESSAGE value="E5.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="E5.20" />
+    <MESSAGE value="E5.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.21" />
   </component>
 </project>
